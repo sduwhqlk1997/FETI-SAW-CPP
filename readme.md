@@ -20,3 +20,5 @@ This project uses the following third-party libraries and runtimes:
 - Ensure the Eigen version and oneMKL installation are compatible with the compiler and platform being used. This repository does not currently include a build-system configuration that pins dependency versions or provides platform-specific link flags.
 
 The C++ standard library is also required; it is not a separate third-party dependency.
+
+> Note: To protect the copyright, the core source code for the FETI-SAW domain decomposition iterative method is not currently available in this repository. The complete source code will be released once the paper is formally published.
